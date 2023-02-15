@@ -1,10 +1,10 @@
 ## Alguns Comandos Git
-git commit -m ""
-git status
-git add . 
-git push
-git clone
-git init
+##### git commit -m ""
+##### git status
+##### git add . 
+##### git push
+##### git clone
+##### git init
 
 
 
